@@ -1,6 +1,6 @@
 # Weather Check
 
-## Deployment: [http://tvanmaren-weather.surge.sh/](tvanmaren-weather.surge.sh/)
+## Deployment: [tvanmaren-weather.surge.sh/](http://tvanmaren-weather.surge.sh/)
 
 ## Project Description
 
